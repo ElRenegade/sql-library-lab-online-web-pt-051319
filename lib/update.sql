@@ -1,1 +1,1 @@
-UPDATE Characters SET species = "torando" WHERE species = "cyclone";
+UPDATE Characters SET species = "Martian" WHERE species = "cyclone";
